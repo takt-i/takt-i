@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
+    <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
 
-<!--
-**takt-i/takt-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <div align="center">Here is ✨ **takt-i** ✨</div> 
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=takt-i&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt="gitHub streak stats"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=takt-i&title=Stars,Followers,PullRequest,Commits,Repositories,Issues&no-frame=true&margin-w=10"  alt="github profile trophy"/>
+</p>
+
+### <div align="center">📊 Github Stats</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=takt-i&show_icons=true&hide_border=true"  alt="takt-i's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takt-i&layout=compact&hide_border=true"  alt="takt-i's top langs"/>
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/takt-i/takt-i/master/waves.svg" alt="footer" />
+</p>
